@@ -1,7 +1,7 @@
 # OJ
 
 [OJ] is an Open Source Online Judge 
-Platform
+Platform.
 
 
 
@@ -10,7 +10,7 @@ Platform
 [VIIT 2K15-19] CSE Batch 10
 
 
-# Live OJ 
+
 
 # Languages
 
@@ -68,9 +68,9 @@ $pass="";
 $db="liveroj";
 
 ```
-# More
-There is a windows version of this online judge with partial features. 
-https://github.com/Prabha-9652/Academic-Project-OJ
 
-# Request
-This online judge project is for learning purpose. Do not use it for commercial purpose. If you modify credits of footer, then add this github repository link to footer.
+
+
+
+
+
