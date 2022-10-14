@@ -1,6 +1,6 @@
-# OJ
+# CodeLab
 
-[OJ] is an Open Source Online Judge 
+[CodeLab] is an Open Source Online Judge 
 Platform.
 
 
